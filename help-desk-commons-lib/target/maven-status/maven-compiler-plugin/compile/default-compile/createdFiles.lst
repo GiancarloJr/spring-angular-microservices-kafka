@@ -1,0 +1,2 @@
+models\requests\UserRequest.class
+models\responses\UserResponse.class
