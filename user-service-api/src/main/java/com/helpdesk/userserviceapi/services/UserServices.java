@@ -1,6 +1,6 @@
 package com.helpdesk.userserviceapi.services;
 
-import com.helpdesk.userserviceapi.UserMapper.UserMapper;
+import com.helpdesk.userserviceapi.mappers.UserMapper;
 import com.helpdesk.userserviceapi.entities.User;
 import com.helpdesk.userserviceapi.repositories.UserRepository;
 import lombok.RequiredArgsConstructor;
